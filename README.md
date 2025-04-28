@@ -1,6 +1,6 @@
 # 🧠💻 Detecção de Faces via Sockets e Processamento Concorrente
 
-Este repositório contém a implementação de uma aplicação cliente-servidor utilizando **Sockets** para comunicação em rede.
+Este repositório contém a implementação de uma aplicação cliente-servidor que utiliza **Sockets** para efetuar a comunicação em rede.
 
 📡 O **cliente** envia imagens ao servidor, e o **servidor** realiza a **detecção de faces** nessas imagens.
 
